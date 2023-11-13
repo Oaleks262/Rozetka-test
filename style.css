@@ -440,6 +440,12 @@ display: none;
     width: 855px;
     height: 73px;   
 }
+.top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 @media(max-width:1280px) {
     .block1{
         display: flex;
