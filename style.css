@@ -1009,7 +1009,7 @@ display: none;
           color: rgb(255, 255, 252);
           line-height: 1.2;
           text-align: center;
-          width: 100%px;
+          width: 100%;
           height: 32px;
       }
       .conteiner-block2-text-2 p{
