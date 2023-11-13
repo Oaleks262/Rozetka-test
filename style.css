@@ -38,7 +38,6 @@ main{
 .logo-text{
     display: flex;
     flex-direction: row;
-
     align-items: center;
     gap: 80px;
 }
@@ -894,8 +893,8 @@ display: none;
             color: rgb(255, 255, 255);
             text-transform: uppercase;
             text-align: center;
-            width: 761.836px;
-            height: 144.703px;
+            width: 100%;
+            height: 100;
     }
     .logo-text img{
         width: 240px;
@@ -1191,7 +1190,7 @@ display: none;
         color: rgb(255, 255, 255);
         text-transform: uppercase;
         text-align: center;
-        width: 460px;
+        width:100%;
         height: 60px;   
     }
     .top{
